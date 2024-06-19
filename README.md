@@ -1,3 +1,6 @@
+![pizza](https://github.com/Wilawan-Watt/Pizza/assets/171704208/33690045-09d0-4e40-8345-0f31fb2e1082)
+
+
 Pizzaku is my first project, created as I began to learn coding, particularly HTML and CSS. I utilized a website template downloaded from https://www.freepik.com/free-psd/italian-food-template_7795584.htm and converted it from Photoshop to HTML & CSS.
 
 The project is currently undergoing revisions for responsiveness to ensure proper display on mobile and tablet devices. Further updates will be uploaded to GitHub later.
